@@ -4,4 +4,4 @@ NPM     : 2206081370
 
 Kelas   : A
 
-Hobi    : Jalan jalan
+Hobi    : Jalan jalan/Makan
